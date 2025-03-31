@@ -1,0 +1,2 @@
+Diagrama de clases:  
+![NL7DReCm3BxxAN9inUW3e0cLzJHfswLFO8Y58eK4sM6NQky-hqaBuuJo-SFVZy-IaDCoURXu537lGGPsy-1Yk47jh6aKIZGIGqtAjR4nRp5wmW0LpXnxj7WucWqwAaz_Hxv6xmQN5dkOC14xR8ntabu_ywjzCUYNAUZ6xluzmWyK6uLoWoh4gMVI_TV4BenG3P6PF2RtZV950magKNHEws](https://github.com/user-attachments/assets/4e0f287a-5d4c-4649-b315-1300b26a5b69)
